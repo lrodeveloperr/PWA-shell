@@ -1,0 +1,18 @@
+{
+  "name": "PWA Shell",
+  "short_name": "PWA Shell",
+  "description": "Reusable shell for engine-first PWA apps.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7fbff",
+  "theme_color": "#1468f4",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
